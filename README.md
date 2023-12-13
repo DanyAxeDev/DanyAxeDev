@@ -13,7 +13,7 @@
   <a href="https://instagram.com/daniel_axe_boy?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-machado-4bb352234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:danielmac789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/1Z3Jx6RcA2Jm68Kg3Mh8NN3sxV5FPRFNI/view?usp=sharing"><img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"></a>
+  <a href="https://drive.google.com/file/d/1905kGAGrHoWUHe2q5vyKtjG30PgKHgG5/view?usp=sharing"><img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"></a>
 </div>
 
 ### About:
