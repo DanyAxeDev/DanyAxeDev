@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/daniel-machado-4bb352234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:danielmac789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://drive.google.com/file/d/1905kGAGrHoWUHe2q5vyKtjG30PgKHgG5/view?usp=sharing"><img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"></a>
+  <a target="_blank" href="https://danyaxedev.github.io/portf-lio/">
+    <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=613F75"/>
+  </a>
 </div>
 
 ### About:
