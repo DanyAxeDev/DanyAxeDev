@@ -13,7 +13,7 @@
   <a href="https://instagram.com/daniel_axe_boy?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-machado-4bb352234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:danielmac789@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/1AZD0nfPSq7x4y_e_ECviVfor9YJF7uLY/view?usp=drive_link"><img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"></a>
+  <a href="https://drive.google.com/file/d/1D1k-DJV9i_KExcotV_AF9WzwTW_AMl46/view?usp=sharing"><img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"></a>
   <a target="_blank" href="https://danyaxedev.github.io/portf-lio/">
     <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=613F75"/>
   </a>
