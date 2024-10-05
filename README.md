@@ -21,8 +21,8 @@
 
 ### About:
 ```diff
-- Moro em Goiânia, e tenho 22 anos.
-! Interessado em PHP, C#, e desenvolvimento de jogos
+- Moro em Goiânia, e tenho 23 anos.
+! Estudando para me tornar um desenvolvedor FullStack e interessado em desenvolvimento de jogos
 ```
 
 ### Hard Skills:
