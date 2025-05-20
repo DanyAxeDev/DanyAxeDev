@@ -21,7 +21,7 @@
 
 ### About:
 ```diff
-- Moro em Goiânia, e tenho 23 anos.
+- Moro em Goiânia, e tenho 24 anos.
 ! Estudando para me tornar um desenvolvedor FullStack e interessado em desenvolvimento de jogos
 ```
 
