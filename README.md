@@ -6,7 +6,7 @@
   </h1>
 
   <p align="center">
-    <b>Estou estudando para me tornar desenvolvedor. No momento, estou dedicando meus estudos a desenvolvimento web, com React, desenvolvimento mobile com React Native, e também um pouco de Java e Python.</b>
+    <b>Formado em Analise e Desenvolvimento de Sistemas.</b>
   </p>
 
   <div align="center">
