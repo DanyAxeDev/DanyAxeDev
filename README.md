@@ -1,12 +1,11 @@
 <div>
   
   <h1 align="center">
-    Olá! Meu nome é
-    <a href="https://www.linkedin.com/in/daniel-machado-4bb352234/">Daniel Machado</a>
+    Olá! Meu nome é Daniel Machado
   </h1>
 
   <p align="center">
-    <b>Formado em Analise e Desenvolvimento de Sistemas.</b>
+    <b>Formado em Analise e Desenvolvimento de Sistemas. Desenvolvedor FullStack com especialidade em React e Spring Boot. Siga minhas redes: </b>
   </p>
 
   <div align="center">
