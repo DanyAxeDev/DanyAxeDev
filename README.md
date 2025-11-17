@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Olá! Meu nome é Daniel Machado
+    Olá! My name is Daniel Machado
   </h1>
 
   <p align="center">
@@ -20,7 +20,7 @@
 
 ### About:
 ```diff
-- I live in Goiânia, and I am 24 years old.
+- I live in Goiânia - GO (Brazil), and I am 24 years old.
 ! Studying to become a FullStack developer and interested in game development.
 ```
 
