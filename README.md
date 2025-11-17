@@ -5,7 +5,7 @@
   </h1>
 
   <p align="center">
-    <b>Formado em Analise e Desenvolvimento de Sistemas. Desenvolvedor FullStack com especialidade em React e Spring Boot. Siga minhas redes: </b>
+    <b>Graduated in Systems Analysis and Development. Full-Stack Developer specializing in React and Spring Boot. Follow me on social media: </b>
   </p>
 
   <div align="center">
@@ -20,8 +20,8 @@
 
 ### About:
 ```diff
-- Moro em Goiânia, e tenho 24 anos.
-! Estudando para me tornar um desenvolvedor FullStack e interessado em desenvolvimento de jogos
+- I live in Goiânia, and I am 24 years old.
+! Studying to become a FullStack developer and interested in game development.
 ```
 
 ### Hard Skills:
